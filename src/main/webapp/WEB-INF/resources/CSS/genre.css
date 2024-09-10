@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+ table {
+            width: 80%;
+            margin-left:150px;
+            margin-top: 10px;
+            background-color: grey;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+           color: white;
+        }
+          th, td a{
+          	color: white;
+          }
+        th {
+            background-color: red;
+        }
